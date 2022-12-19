@@ -23,7 +23,7 @@
             android:layout_marginTop="@dimen/_40sdp"
             android:text="@string/welcome"
             android:textColor="@color/black"
-            android:textSize="@dimen/_18ssp"
+            android:textSize="@dimen/_30ssp"
             android:textStyle="bold" />
 
         <TextView
@@ -32,7 +32,7 @@
             android:layout_marginTop="@dimen/_4sdp"
             android:text="@string/login_to_continue"
             android:textColor="@color/black"
-            android:textSize="@dimen/_12ssp"
+            android:textSize="@dimen/_15ssp"
             android:textStyle="bold" />
 
         <EditText
@@ -40,9 +40,10 @@
             android:layout_width="match_parent"
             android:layout_height="@dimen/_45sdp"
             android:layout_marginTop="@dimen/_40sdp"
-            android:background="@color/teal_200"
+            android:background="@color/white"
             android:hint="@string/email"
             android:textColorHint="@color/black"
+            android:textColor="@color/black"
             android:imeOptions="actionNext"
             android:importantForAutofill="no"
             android:paddingStart="@dimen/_16sdp"
@@ -52,7 +53,8 @@
             android:layout_width="match_parent"
             android:layout_height="@dimen/_45sdp"
             android:layout_marginTop="@dimen/_40sdp"
-            android:background="@color/teal_200"
+            android:background="@color/white"
+            android:textColor="@color/black"
             android:hint="@string/password"
             android:textColorHint="@color/black"
             android:imeOptions="actionDone"

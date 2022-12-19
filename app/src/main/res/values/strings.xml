@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">voyage</string>
+    <string name="app_name">Voyage</string>
     <string name="welcome">Welcome</string>
     <string name="login">Login</string>
     <string name="create_new_account">Create new account</string>
@@ -11,4 +11,6 @@
     <string name="email">Email</string>
     <string name="select_user">select user</string>
     <string name="type_a_message">type a message</string>
+    <string name="online">Online</string>
+    <string name="WELCOMEE">WELCOME</string>
 </resources>

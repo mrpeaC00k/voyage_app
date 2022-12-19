@@ -15,7 +15,7 @@ import com.example.janyll.models.User;
 
 import java.util.List;
 
-public class UsersAdapter extends  RecyclerView.Adapter<UsersAdapter.UserViewHolder>{
+public class UsersAdapter extends RecyclerView.Adapter<UsersAdapter.UserViewHolder>{
 
     private final List<User>users;
     private final UserListener userListener;
